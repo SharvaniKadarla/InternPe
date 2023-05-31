@@ -1,4 +1,4 @@
-# NOTE: In place of API_KEY inside the {} i.e {API_KEY} enter the API KEY of yours in the ExchangeRate API website after successfully logged in.
+# NOTE: In place of {API_KEY}, enter the API KEY of yours in the ExchangeRate API website after successfully logged in.
 # For example: 0674346310be17eee50c55ye
 # API_KEY is observed after creating an account and successfully logged in to the ExchangeRate API website, from there one can copy the API_KEY and paste it.
 # importing everything from tkinter
